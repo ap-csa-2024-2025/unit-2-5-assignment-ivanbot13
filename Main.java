@@ -5,7 +5,7 @@ public class Main
   public static void main(String[] args)
   {
     Scanner sc = new Scanner(System.in);
-    // write solutions to problems here
+    
     // prob 1:
     Circle cir1 = new Circle(10.1);
     Circle cir2 = new Circle(14.0);
