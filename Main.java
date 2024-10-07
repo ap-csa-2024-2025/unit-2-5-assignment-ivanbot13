@@ -10,7 +10,6 @@ public class Main
     Circle cir1 = new Circle(10.1);
     Circle cir2 = new Circle(14.0);
     Circle cir3 = new Circle(20.5);
-
     System.out.println(cir1.toString());
     System.out.println(cir2.toString());
     System.out.println(cir3.toString());
